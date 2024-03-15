@@ -5,8 +5,8 @@ export const DEFAULT_FRAME = {
   buttons: [
     {
       action: 'link',
-      label: 'datamuse.xyz',
-      target: 'https://datamuse.xyz',
+      label: 'viem snapshot',
+      target: 'https://viem-snapshot.vercel.app',
     },
   ],
   image: {
