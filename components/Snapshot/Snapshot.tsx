@@ -5,7 +5,12 @@ const Snapshot = () => {
 
   return (
     <div>
-      <h2>Snapshot</h2>
+      <h2>
+        Snapshot at block{' '}
+        <a href="https://etherscan.io/block/19441207" target="_blank">
+          19441207
+        </a>
+      </h2>
       <table border={1}>
         <thead>
           <tr>

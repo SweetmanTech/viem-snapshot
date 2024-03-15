@@ -11,6 +11,7 @@ const getSnapshot = async () => {
     ...wagmiContract,
     functionName: 'ownerOf',
     args: [BigInt(index + 1)],
+    blockNumber: 19441207,
   }));
 
   const results = await ethPublicClient.multicall({
