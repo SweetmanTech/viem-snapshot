@@ -1,55 +1,20 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zizzamia/a-frame-in-100-lines/blob/main/public/park-4.png">
-    <img alt="OnchainKit logo vibes" src="https://github.com/Zizzamia/a-frame-in-100-lines/blob/main/public/park-4.png" width="auto">
-  </picture>
-</p>
+# viem snapshot
 
-# A Frame in 100 lines (or less)
+simple viem implementation of an ERC721 snapshot
 
-Farcaster Frames in less than 100 lines, and ready to be deployed to Vercel.
+## Snapshot details
 
-To test a **deployed** Frame, use: https://warpcast.com/~/developers/frames.
-
-To test a **localhost** Frame, use: [Framegear](https://onchainkit.xyz/frame/framegear).
-A simple tool that allows you to run and test your frames locally:
-
-- without publishing
-- without casting
-- without spending warps
-
-And let us know what you build by either mentioning @zizzamia on [Warpcast](https://warpcast.com/zizzamia) or [X](https://twitter.com/Zizzamia).
-
-<br />
-
-Have fun! ⛵️
-
-<br />
-
-## App Routing files
-
-- app/
-  - [config.ts](https://github.com/Zizzamia/a-frame-in-100-lines?tab=readme-ov-file#appconfigts)
-  - [layout.tsx](https://github.com/Zizzamia/a-frame-in-100-lines?tab=readme-ov-file#applayouttsx)
-  - [page.tsx](https://github.com/Zizzamia/a-frame-in-100-lines?tab=readme-ov-file#apppagetsx)
-- api/
-  - frame/
-    - [route.ts](https://github.com/Zizzamia/a-frame-in-100-lines?tab=readme-ov-file#appapiframeroutets)
-
-<br />
-
-## Resources
-
-- [Official Farcaster Frames documentation](https://docs.farcaster.xyz/learn/what-is-farcaster/frames)
-- [Official Farcaster Frame specification](https://docs.farcaster.xyz/reference/frames/spec)
-- [OnchainKit documentation](https://onchainkit.xyz)
-
-<br />
+- contract name: `Cre8ors Passports`
+- contract address:`0xd9635b70724b9f618a7bb37c7be182117b1f0dc1`
+- chain: `Ethereum Mainnet`
+- chainID: `1`
+- block number of snapshot: `19441207`
+- view on opensea: [here](https://opensea.io/assets/ethereum/0xd9635b70724b9f618a7bb37c7be182117b1f0dc1/205)
+- view on Etherscan: [here](https://etherscan.io/address/0xd9635b70724b9f618a7bb37c7be182117b1f0dc1)
 
 ## Authors
 
 - [@sweetmantech](https://github.com/sweetmantech) ([warpcast](https://warpcast.com/sweetman-eth))
-- [@crazzywizard](https://github.com/crazzywizard) ([warpcast](https://warpcast.com/crazzywizard))
 
 ## License
 

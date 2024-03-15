@@ -14,7 +14,7 @@ const LandingPageHeader = () => (
       className="max-w-[600px] text-md md:text-xl font-bold"
       tw="max-w-[600px] text-4xl font-bold mt-[-25]"
     >
-      showing founders pass snapshot for cre8ors
+      showing founders pass snapshot for cre8ors founders passports
     </p>
   </div>
 );
